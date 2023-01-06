@@ -1,0 +1,559 @@
+{
+  "menuKey": 168,
+  "rightAlligned": true,
+  "enabledInEmergencyVehicles": false,
+
+  "menus": [
+    {
+      "name": "Blaine County Sheriff's Office",
+      "aceRequired": "VehicleSpawner.BCSO",
+      "vehicles": [
+        {
+          "name": "BCSO9",
+          "spawncode": "BCSO9"
+        },
+        {
+          "name": "BCSO10",
+          "spawncode": "BCSO10"
+        },
+        {
+          "name": "BCSO11",
+          "spawncode": "BCSO11"
+        },
+        {
+          "name": "BCSO12",
+          "spawncode": "BCSO12"
+        },
+        {
+          "name": "BCSO13",
+          "spawncode": "BCSO13"
+        },
+        {
+          "name": "BCSO14",
+          "spawncode": "BCSO14"
+        },
+        {
+          "name": "sh1",
+          "spawncode": "sh1"
+        },
+        {
+          "name": "sh2",
+          "spawncode": "sh2"
+        },
+        {
+          "name": "sh3",
+          "spawncode": "sh3"
+        },
+        {
+          "name": "sh4",
+          "spawncode": "sh4"
+        },
+        {
+          "name": "sh5",
+          "spawncode": "sh5"
+        },
+        {
+          "name": "sh6",
+          "spawncode": "sh6"
+        },
+        {
+          "name": "sh7",
+          "spawncode": "sh7"
+        },
+        {
+          "name": "sh8",
+          "spawncode": "sh8"
+        },
+        {
+          "name": "sh9",
+          "spawncode": "sh9"
+        },
+        {
+          "name": "sh10",
+          "spawncode": "sh10"
+        },
+        {
+          "name": "sh11",
+          "spawncode": "sh11"
+        },
+        {
+          "name": "sh12",
+          "spawncode": "sh1"
+        },
+        {
+          "name": "sh13",
+          "spawncode": "sh13
+        },
+        {
+          "name": "sh14",
+          "spawncode": "sh14
+        },
+        {
+          "name": "sh15",
+          "spawncode": "sh15
+        },
+        {
+          "name": "sh16",
+          "spawncode": "sh16
+        },
+        {
+          "name": "sh17",
+          "spawncode": "sh17"
+        },
+        {
+          "name": "sh18",
+          "spawncode": "sh18"
+        },
+        {
+          "name": "sh19",
+          "spawncode": "sh19"
+        }
+      ]
+    },
+    {
+      "name": "San Andreas State Troopers",
+      "aceRequired": "VehicleSpawner.SASP",
+      "vehicles": [
+        {
+          "name": "2009 Charger",
+          "spawncode": "valor1bb"
+        },
+        {
+          "name": "2011 CVPI",
+          "spawncode": "valor5bb"
+        },
+        {
+         "name": "2013 Cap",
+          "spawncode": "valor4bb"
+        },
+        {
+         "name": "2013 Explorer",
+          "spawncode": "valor11bb"
+        },
+        {
+        "name": "2014 Charger",
+          "spawncode": "valor2bb"
+        },
+        {
+        "name": "2014 Tahoe",
+          "spawncode": "valor7bb"
+        },
+        {
+          "name": "2016 Explorer",
+          "spawncode": "valor12bb"
+        },
+        {
+          "name": "2016 Ram",
+          "spawncode": "valor15bb"
+        },
+        {
+          "name": "2018 Charger",
+          "spawncode": "valor3bb"
+        },
+        {
+          "name": "2018 F150",
+          "spawncode": "valor14bb"
+        },
+        {
+          "name": "2018 Taurus",
+          "spawncode": "valor6bb"
+        },
+        {
+          "name": "2020 Explorer",
+          "spawncode": "valor13bb"
+        },
+        {
+          "name": "2020 Tahoe",
+          "spawncode": "valor8bb"
+        },
+        {
+          "name": "2021 Durango",
+          "spawncode": "valor10bb"
+        },
+        {
+          "name": "2021 Tahoe",
+          "spawncode": "valor9bb"
+        },
+        {
+          "name": "2011 CVPI",
+          "spawncode": "lib11cvpibb"
+        },
+        {
+          "name": "2014 Charger",
+          "spawncode": "lib14chargerbb"
+        },
+        {
+          "name": "2014 Tahoe",
+          "spawncode": "lib14tahoebb"
+        },
+        {
+          "name": "2016 FPIU",
+          "spawncode": "lib16fpiubb"
+        },
+        {
+          "name": "2016 Impala",
+          "spawncode": "lib16impalabb"
+        },
+        {
+          "name": "2016 Ram",
+          "spawncode": "lib16ramblackbb"
+        },
+        {
+          "name": "2016 Taurus",
+          "spawncode": "lib16taurusbb"
+        },
+        {
+          "name": "2017 Silveradio",
+          "spawncode": "lib17silvblackbb"
+        },
+        {
+          "name": "2018 Charger",
+          "spawncode": "lib18chargerbb"
+        },
+        {
+          "name": "2018 Durango",
+          "spawncode": "lib18durangobb"
+        },
+        {
+          "name": "2020 FPIU",
+          "spawncode": "lib20fpiubb"
+        },
+        {
+          "name": "2020 Tahoe",
+          "spawncode": "lib20tahoebb"
+        },
+        {
+          "name": "2014 BMW Bike",
+          "spawncode": "mbu2bb"
+        },
+        {
+          "name": "2014 Harley",
+          "spawncode": "mbu1bb"
+        },
+        {
+          "name": "2014 Harley Flags",
+          "spawncode": "mbu1flagbb"
+        },
+        {
+          "name": "2014 Kawasaki",
+          "spawncode": "mbu3bb"
+        },
+        {
+          "name": "2021 GSC",
+          "spawncode": "21gscbb"
+        },
+        {
+          "name": "Bearcat,
+          "spawncode": "bearcatbb"
+        },
+        {
+          "name": "Boat",
+          "spawncode": "policeboatbb"
+        },
+        {
+          "name": "Boat Trailer",
+          "spawncode": "policetrailer"
+        },
+        {
+          "name": "GTR",
+          "spawncode": "gtr"
+        },
+        {
+          "name": "Large Boat",
+          "spawncode": "largeboat"
+        },
+        {
+          "name": "PitBull",
+          "spawncode": "pitbullbb"
+        },
+        {
+          "name": "SAR 250",
+          "spawncode": "sar250"
+        },
+        {
+          "name": "Small Boat",
+          "spawncode": "smallboat"
+        },
+        {
+          "name": "C8",
+          "spawncode": "speedc8bb"
+        },
+        {
+          "name": "Camero",
+          "spawncode": "speedcamarobb"
+        },
+        {
+          "name": "Cgarger",
+          "spawncode": "speedchargerbb"
+        },
+        {
+          "name": "Demon",
+          "spawncode": "speeddemonbb"
+        },
+        {
+          "name": "Mustang",
+          "spawncode": "speedmustangbb"
+        },
+        {
+          "name": "Swat Heli",
+          "spawncode": "swatec135"
+        }
+      ]
+    }
+  ]
+},
+    {
+      "name": "Los Santos Police Department",
+      "aceRequired": "VehicleSpawner.LSPD",
+      "vehicles": [
+        {
+          "name": "2014 Charger",
+          "spawncode": "d14charger"
+        },
+        {
+          "name": "2014 Tahoe",
+          "spawncode": "d14tahoe"
+        },
+        {
+          "name": "2018 Charger",
+          "spawncode": "d18charger"
+        },
+        {
+          "name": "2018 Tahoe",
+          "spawncode": "d18tahoe"
+        },
+        {
+          "name": "2014 FPIU",
+          "spawncode": "d14fpiu"
+        },
+        {
+          "name": "F150",
+          "spawncode": "df150"
+        },
+        {
+          "name": "Impala",
+          "spawncode": "d06impala"
+        },
+        {
+          "name": "Taurus",
+          "spawncode": "dtaurus"
+        },
+        {
+          "name": "Crown Vic",
+          "spawncode": "dcvpi"
+        }
+      ]
+    }
+  ]
+},
+    {
+      "name": "San Andreas Fire & Rescue",
+      "aceRequired": "VehicleSpawner.SAFR",
+      "vehicles": [
+        {
+          "name": "Engine",
+          "spawncode": "pengine"
+        },
+        {
+          "name": "Ladder",
+          "spawncode": "pladder"
+        },
+        {
+          "name": "Rescue",
+          "spawncode": "prescue"
+        },
+        {
+          "name": "Chevy Brush",
+          "spawncode": "01chevybrush"
+        },
+        {
+          "name": "2020 Pov",
+          "spawncode": "20rampov"
+        },
+        {
+          "name": "FD1",
+          "spawncode": "FD1"
+        },
+        {
+          "name": "FD2",
+          "spawncode": "FD2"
+        },
+        {
+          "name": "FD3",
+          "spawncode": "FD3"
+        },
+        {
+          "name": "FD4",
+          "spawncode": "FD4"
+        },
+        {
+          "name": "FD5",
+          "spawncode": "FD5"
+        },
+        {
+          "name": "FD6",
+          "spawncode": "FD6"
+        },
+        {
+          "name": "FD7",
+          "spawncode": "FD7"
+        },
+        {
+          "name": "FD8",
+          "spawncode": "FD8"
+        },
+        {
+          "name": "FD9",
+          "spawncode": "FD9"
+        },
+        {
+          "name": "FD10",
+          "spawncode": "FD10"
+        },
+        {
+          "name": "FD11",
+          "spawncode": "FD11"
+        },
+        {
+          "name": "FD12",
+          "spawncode": "FD12"
+        },
+        {
+          "name": "fd13",
+          "spawncode": "FD13"
+        },
+        {
+          "name": "fd14",
+          "spawncode": "FD14"
+        },
+        {
+          "name": "FDMO",
+          "spawncode": "fdfmo"
+        },
+        {
+          "name": "fdHart",
+          "spawncode": "fdhart"
+        },
+        {
+          "name": "FDHawk",
+          "spawncode": "fdhawk"
+        },
+        {
+          "name": "FDMe",
+          "spawncode": "fdme"
+        },
+        {
+          "name": "PolMav",
+          "spawncode": "2"
+        },
+        {
+          "name": "Ford Brush",
+          "spawncode": "01fordbrush"
+        },
+        {
+          "name": "Choas 3500",
+          "spawncode": "river01"
+        },
+        {
+          "name": "Explorer",
+          "spawncode": "povexp"
+        },
+        {
+          "name": "POV1R",
+          "spawncode": "POV1R"
+        },
+        {
+          "name": "POV2R",
+          "spawncode": "POV2R"
+        },
+        {
+          "name": "POV3R",
+          "spawncode": "POV3R"
+        },
+        {
+          "name": "POV4R",
+          "spawncode": "POV4R"
+        },
+        {
+          "name": "Ram",
+          "spawncode": "ramems"
+        },
+        {
+          "name": "2006 Tahoe",
+          "spawncode": "old"
+        },
+        {
+          "name": "F350",
+          "spawncode": "f350uc"
+        },
+        {
+          "name": "Ram 2500",
+          "spawncode": "ram2500"
+        },
+        {
+          "name": "Silverado",
+          "spawncode": "so24"
+        }
+      ]
+    }
+  ]
+},
+    {
+      "name": "Department Of Transportation",
+      "aceRequired": "VehicleSpawner.DOT",
+      "vehicles": [
+        {
+          "name": "Silverado",
+          "spawncode": "dot10silverado"
+        },
+        {
+          "name": "2016 Ram",
+          "spawncode": "dot16ramd"
+        },
+        {
+          "name": "2017 Silverado",
+          "spawncode": "dot17silv"
+        },
+        {
+          "name": "2020 Tahoe",
+          "spawncode": "dot20tahoe"
+        },
+        {
+          "name": "F250",
+          "spawncode": "dotf250"
+        },
+        {
+          "name": "FlatBed",
+          "spawncode": "flatbed"
+        },
+        {
+          "name": "Silverado",
+          "spawncode": "dsilv"
+        },
+        {
+          "name": "TowTruck",
+          "spawncode": "towtruck"
+        }
+      ]
+    }
+  ]
+},
+    {
+      "name": "Local Departements",
+      "aceRequired": "VehicleSpawner.LD",
+      "vehicles": [
+        {
+          "name": "Police Vehicle 1",
+          "spawncode": "police"
+        },
+        {
+          "name": "Police Vehicle 2",
+          "spawncode": "police2"
+        }
+      ]
+    }
+  ]
+}
+
+
+
